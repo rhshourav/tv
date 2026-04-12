@@ -1,6 +1,6 @@
 # tv
 ```
-https://tinyurl.com/rhs-iptv
+https://tinyurl.com/ts-iptv
 ```
 or
 ```
